@@ -1,0 +1,1 @@
+You get the AI by going to "https://github.com/therealco/Mayo." and get TypeScript implemented on your machine or otherwise. Then, download the ZIP for this repository and run the .SH files listed. After that, nithing! Your AI is running on port 4000, so go to "localhost:4000" to see your AI in action!
